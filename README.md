@@ -1,8 +1,3 @@
-这是一份为您重新梳理和排版后的 `README.md` 文件。调整后的结构更加注重逻辑层次、可读性以及参数的清晰呈现，非常适合 GitHub/GitLab 等代码仓库的展示规范。
-
-您可以直接复制以下 Markdown 内容使用：
-
-```markdown
 # RFdiffusion3 批量生成 Binder 自动化流程
 
 本项目提供了一套完整的自动化流程，支持在给定目标蛋白质序列结构的基础上，基于 [RFdiffusion3](https://github.com/RosettaCommons/foundry) 批量生成指定长度范围的 Binder 结构，并自动完成各项评估指标的提取与分析。
